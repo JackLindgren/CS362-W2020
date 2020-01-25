@@ -14,7 +14,7 @@ def get_player_names():
   """
   Returns a list of player names
   """
-	return ["Annie", "*Ben", "*Carla"]
+  return ["Annie", "*Ben", "*Carla"]
 
 def get_box(num_victory):
   """
